@@ -4,7 +4,7 @@
 
     If you want see this app in action you can click on the link below or on the link in description in the top of GITHUB
 
-    [CLICK HERE TO SEE MY PROGRESS](https://simon125.github.io/filterable-list-app/)
+    [ CLICK HERE TO SEE MY PROGRESS ](https://simon125.github.io/filterable-list-app/)
 
 ### Tech
 
