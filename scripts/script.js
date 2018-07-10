@@ -1,3 +1,10 @@
+var coll = document.links
+
+var arr = Array.prototype.slice.call( coll, 0 );
+
+arr.forEach(element => {
+    element.addEventListener('click', (e)=> e.preventDefault())
+});
 const filterNames = () => {
     let filterValue = document.getElementById('filter-input').value.toUpperCase()
 
@@ -8,6 +15,7 @@ const filterNames = () => {
     for(let i = 0; i < li.length; i++){
        
         let a = li[i].getElementsByTagName('a')[0]
+        
       if(a.innerHTML.toUpperCase().indexOf(filterValue) !== (-1)){
         li[i].style.display=''
       }else {
