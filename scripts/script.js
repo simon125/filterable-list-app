@@ -1,6 +1,6 @@
-var coll = document.links
+var collLinks = document.links
 
-var arr = Array.prototype.slice.call( coll, 0 );
+var arrLinks = Array.prototype.slice.call( coll, 0 );
 
 arr.forEach(element => {
     element.addEventListener('click', (e)=> e.preventDefault())
