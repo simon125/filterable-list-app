@@ -2,9 +2,10 @@
 
   This is a simple training app for practise some stuff from VanillaJS and DOM and Materialize
 
-    If you want see this app in action you can click on the link below or on the link in description in the top of GITHUB
+## Link to the app?
 
-    [ CLICK HERE TO SEE MY PROGRESS ](https://simon125.github.io/filterable-list-app/)
+  If you want see this app in action you can click on the link below or on the link in description in the top of GITHUB
+[ CLICK HERE TO SEE MY PROGRESS ](https://simon125.github.io/filterable-list-app/)
 
 ### Tech
 
@@ -19,3 +20,5 @@ Used technology:
  - Write more possibilities to filter
  - Add possibility to adding new contact
  - Improve UI
+
+
